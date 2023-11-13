@@ -1,3 +1,4 @@
+pip install streamlit_extras
 from typing import List
 import streamlit as st
 from markdownlit import mdlit
